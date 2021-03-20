@@ -4,11 +4,7 @@
   </a>
 </div>
 
-![npm](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-![node](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-
-[![stable](https://img.shields.io/badge/stability-stable-green.svg)](https://github.com/dominictarr/stability#stable)
-
+[![npm][npm]][npm-url]
 
 # webpack-error-sound
  Webpack plugin to play a system bell sound on compilation error
