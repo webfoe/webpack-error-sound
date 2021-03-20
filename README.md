@@ -18,9 +18,6 @@
 ```    
 npm i -D webpack-error-sound
 ```
-```
-yarn add -D webpack-error-sound
-```
 
 ## Usage
 in your `webpack.config.js` import a plugin and include it to plugins array:
@@ -41,3 +38,7 @@ The plugin was designed for personal use
 
 ## License
 #### [MIT](./LICENSE)
+
+
+[npm]: https://img.shields.io/npm/v/webpack-error-sound.svg
+[npm-url]: https://npmjs.com/package/webpack-error-sound
