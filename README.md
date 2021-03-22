@@ -35,8 +35,9 @@ module.exports = {
 ```
 
 ## Support
+Developed for **webpack 5**, not tested for previous versions.
+
 The plugin was designed for personal use.
-Developed for webpack 5, not tested on previous versions
 
 ## License
 #### [MIT](./LICENSE)
