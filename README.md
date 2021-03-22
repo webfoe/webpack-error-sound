@@ -5,6 +5,7 @@
 </div>
 
 [![npm][npm]][npm-url]
+[![npm][webpack]][webpack-url]
 
 # webpack-error-sound
  Webpack plugin to play a system bell sound on compilation error
@@ -34,7 +35,8 @@ module.exports = {
 ```
 
 ## Support
-The plugin was designed for personal use
+The plugin was designed for personal use.
+Developed for webpack 5, not tested on previous versions
 
 ## License
 #### [MIT](./LICENSE)
@@ -42,3 +44,5 @@ The plugin was designed for personal use
 
 [npm]: https://img.shields.io/npm/v/webpack-error-sound.svg
 [npm-url]: https://npmjs.com/package/webpack-error-sound
+[webpack]: https://img.shields.io/npm/v/webpack?color=%231e72b3&label=webpack
+[webpack-url]: https://www.npmjs.com/package/webpack
