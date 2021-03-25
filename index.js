@@ -12,4 +12,4 @@ class WebpackErrorSound {
     }
 }
 
-module.exports = WebpackErrorSound;
+export default WebpackErrorSound;
